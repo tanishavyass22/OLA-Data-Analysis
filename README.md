@@ -34,9 +34,9 @@ Customer Demand--
  17. Ride Distance
  18. Driver Ratings
  19. Customer Rating
- Keep the overall booking status success for this data at 62%. If the booking status is successful, then only
- fare charge ratings, average VTAT, average CTAT, and other data will be there.
- Make sure orders cancelled by customers should not be more than 7%
- Make sure orders cancelled drivers should not be more than 18%
- keep incomplete rides less than 6%
- Keep order value high on weekends
+#### Keep the overall booking status success for this data at 62%. 
+#### If the booking status is successful, then only fare charge ratings, average VTAT, average CTAT, and other data will be there.
+#### Make sure orders cancelled by customers should not be more than 7%
+#### Make sure orders cancelled drivers should not be more than 18%
+####keep incomplete rides less than 6%
+####Keep order value high on weekends
