@@ -28,8 +28,8 @@
 Chatgpt | SQL | Excel | Powerbi
 
 ## Data cleaning process:
-● Checked for duplicates: Verified that all entries are unique. 
-● Changed data types: Corrected data types for columns that were incorrectly formatted. 
-● Removed unwanted columns: Deleted columns that were not necessary for the analysis( vehicle images,column 21) 
-● Checked for null and missing values: Identified null and missing values but did not remove them to avoid affecting the analysis. 
-● Loaded cleaned data back to Excel sheet: Transferred the cleaned data back into an Excel sheet. [Cleaned Dataset](./cleaned%20Excel%20file%20-%20Ola.xlsx)
+#### ● Checked for duplicates: Verified that all entries are unique. 
+#### ● Changed data types: Corrected data types for columns that were incorrectly formatted. 
+#### ● Removed unwanted columns: Deleted columns that were not necessary for the analysis( vehicle images,column 21) 
+#### ● Checked for null and missing values: Identified null and missing values but did not remove them to avoid affecting the analysis. 
+#### ● Loaded cleaned data back to Excel sheet: Transferred the cleaned data back into an Excel sheet. [Cleaned Dataset](./cleaned%20Excel%20file%20-%20Ola.xlsx)
