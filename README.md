@@ -61,6 +61,21 @@ Chatgpt | SQL | Excel | Powerbi
  #### 5. cancelled Rides Reasons
  #### 6. Revenue by Payment Method
  #### 7. Top 5 Customers by Total Booking Value
- ####8. Ride Distance Distribution Per Day
+ #### 8. Ride Distance Distribution Per Day
  #### 9. Driver Ratings Distribution
  #### 10. Customer vs. Driver Ratings
+
+## Report:
+Generated comprehensive reports on service quality and customer satisfaction.[Dashboard](./Ola%20Dashboard.pbix)
+
+## Conclusion
+Implementing the recommended strategies can have a significant and positive impact on Ola's business, as well as on its drivers and riders. Here’s a comprehensive conclusion:
+
+## Company (Ola) Benefits
+Revenue Growth: Potential increase in revenue by 15-22% due to dynamic pricing, better fleet utilization, and reduced cancellations. Operational Efficiency: Improved resource allocation, reduced wait times, and enhanced operational efficiency. Customer Satisfaction: Increased customer satisfaction and retention rates by 10-15%, leading to more repeat bookings and positive word-of-mouth.
+
+## Driver Benefits
+Increased Earnings: Drivers could see an increase in their monthly earnings by 9-16% due to performance-based incentives, better fleet utilization, and operational improvements. Improved Working Conditions: Enhanced driver satisfaction and retention rates by 5-10% through improved support systems and feedback mechanisms. More Rides: Drivers can complete more rides per day, leading to higher earnings and better job satisfaction.
+
+## Rider Benefits
+Better Service Quality: Improved service quality due to better-maintained vehicles, more reliable drivers, and reduced wait times. Personalized Experience: Riders may experience a more personalized service with preferred vehicle types available more frequently. Increased Satisfaction: Higher overall satisfaction due to reduced cancellations, shorter wait times, and better driver performance.
