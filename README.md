@@ -4,23 +4,23 @@
 ####  **My generated data**:[click here for the datset](./Ola%20Bookings-100000%2B-Raw%20data.xlsx)
 
 ## Table of Contents:
-Date
-Time
-Booking_ID
-Booking_Status
-Customer_ID
-Vehicle_Type
-Pickup_Location
-Drop_Location
-V_TAT
-C_TAT
-cancelled_Rides_by_Customer
-cancelled_Rides_by_Driver
-Incomplete_Rides
-Incomplete_Rides_Reason
-Booking_Value
-Payment_Method
-Ride_Distance
-Driver_Ratings
-Customer_Rating
+1. Date
+2. Time
+3. Booking_ID
+4. Booking_Status
+5. Customer_ID
+6. Vehicle_Type
+7. Pickup_Location
+8. Drop_Location
+9. V_TAT
+10. C_TAT
+11. cancelled_Rides_by_Customer
+12. cancelled_Rides_by_Driver
+13. Incomplete_Rides
+14. Incomplete_Rides_Reason
+15. Booking_Value
+16. Payment_Method
+17. Ride_Distance
+18. Driver_Ratings
+19. Customer_Rating
 
