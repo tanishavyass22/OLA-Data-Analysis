@@ -24,3 +24,5 @@
 18. Driver_Ratings
 19. Customer_Rating
 
+## Tools:
+Chatgpt | SQL | Excel | Powerbi
